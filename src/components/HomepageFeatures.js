@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Swap',
-    Svg: require('../../static/img/swap.png').default,
+    image: require('../../static/img/swap.png').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Stake',
-    Svg: require('../../static/img/wallet.png').default,
+    image: require('../../static/img/wallet.png').default,
     description: (
       <>
       Unlock every way to get the most out of your assets, from yield farming to liquid and native asset staking.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Maximize Your Yield',
-    Svg: require('../../static/img/yield.png').default,
+    image: require('../../static/img/yield.png').default,
     description: (
       <>
         Stake DAO has everything you need to grow and manage your crypto.
@@ -33,11 +33,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img className={styles.featureSvg} alt={title} src={image}  />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
