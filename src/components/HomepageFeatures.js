@@ -4,8 +4,8 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Swap',
+    Svg: require('../../static/img/swap.png').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -14,22 +14,20 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Stake',
+    Svg: require('../../static/img/wallet.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Unlock every way to get the most out of your assets, from yield farming to liquid and native asset staking.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Maximize Your Yield',
+    Svg: require('../../static/img/yield.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Stake DAO has everything you need to grow and manage your crypto.
       </>
     ),
   },
