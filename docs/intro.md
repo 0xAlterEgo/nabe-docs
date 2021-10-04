@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
-title: What is Nabe.Finance?
-description: Nabe Finance Introduciton
+id: intro
+title: Intro
+description: Nabe Finance Introduction
+slug: /intro
 ---
 
-# Nabe Finance Intro
-
-**Nabe Finance** is a DeFi project based on the Binance Smart Chain
+Nabe Finance is a DeFi project based on the Binance Smart Chain
 
 DeFi enable crypto investors to earn interests by staking crypto assets upon DeFi protocol.
 

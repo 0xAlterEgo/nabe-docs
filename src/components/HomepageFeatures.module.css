@@ -6,12 +6,5 @@
 }
 
 .featureSvg {
-  height: 150px;
-  width: 150px;
-}
-
-html[data-theme="dark"] .featureSvg {
-  fill: white;
-  height: 150px;
-  width: 150px;
+  height: 200px;
 }

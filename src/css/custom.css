@@ -2,13 +2,13 @@
 
 :root {
   font-family: "Ubuntu", sans-serif;
-  --ifm-color-primary: #00262f;
+  --ifm-color-primary: #735858;
   --ifm-code-font-size: 95%;
 }
 
 html[data-theme="dark"]:root {
   font-family: "Ubuntu", sans-serif;
-  --ifm-color-primary: #4d676d;
+  --ifm-color-primary: #735858;
   --ifm-code-font-size: 95%;
 }
 
