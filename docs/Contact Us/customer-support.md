@@ -6,7 +6,7 @@ description: Nabefinance Customer Support
 slug: /customer-support
 ---
 
-## There is NO customer support for Cmdswap.
+## There is NO customer support for Nabe Finance.
 
 If you're experiencing issues,
 

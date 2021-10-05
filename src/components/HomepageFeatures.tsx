@@ -5,33 +5,34 @@ import Translate from "@docusaurus/Translate";
 
 const FeatureList = [
   {
-    title: <Translate description="feature exchange title">Maximum</Translate>,
-    image: require("../../static/img/pancake.png").default,
+    title: <Translate description="feature exchange title">Nabe</Translate>,
+    image: require("../../static/img/logo.png").default,
     description: (
       <Translate description="feature exchange description">
-        When you deposit your cake in our Nabe pot, our chef makes delicious
-        cakes and Nabe.
+        The main course is Nabe. We are cooking hard and picking chefs to serve
+        nabe to more delicious people.
       </Translate>
     ),
   },
   {
-    title: <Translate description="feature farms title">Gacha</Translate>,
-    image: require("../../static/img/gachagacha.png").default,
+    title: <Translate description="feature farms title">Dessert</Translate>,
+    image: require("../../static/img/pancake.png").default,
     description: (
       <Translate description="feature farms description">
-        We don't just receive nabe for a more fun meal, but we help you eat more
-        fun and full with a lottery system.
+        The dessert course is pancakes. To serve more delicious pancakes, we
+        sprinkle sweet syrup and serve more delicious and delicious cakes.
       </Translate>
     ),
   },
   {
     title: (
-      <Translate description="feature liquidity pool title">NFT</Translate>
+      <Translate description="feature liquidity pool title">Lottery</Translate>
     ),
-    image: require("../../static/img/painter.png").default,
+    image: require("../../static/img/gachagacha.png").default,
     description: (
       <Translate description="feature liquidity pool description">
-        hmm...
+        We are holding events such as a meal ticket lottery to make it fun in
+        addition to delicious dishes.
       </Translate>
     ),
   },
