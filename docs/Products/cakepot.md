@@ -6,19 +6,15 @@ description: Nabe Finance Cakepot
 slug: /cakepot
 ---
 
-## What's the cake pot?
+## What's the CAKE pot?
 
-Cakepod are deposited at pancakeswap and give you all the interest.
+An Investor can deposit a crypto asset on CAKE pot through Pancakeswap DEX. From there, you will get all interest for the deposit. Interest rates depend on Gatcha, and you can enjoy it without losing! In addition, you can get both CAKE and NABE as interests.
 
-Interest depends on Gacha, and you can enjoy it without a bang.
+Gacha will hold every 720 blocks (which is 24 hours).
 
-In addition, not only cake interest, but also Nabe tokens are paid in part interest.
+## Gacha Odds
 
-Gacha will draw lots every 720 blocks.
-
-## Gacha's Ratio
-
-- 3% chance of winning SSR. - 30% of total pods.
-- 7% chance of winning. - 20% of total pods.
-- R 15% chance of winning. - 10% of total pods.
-- N 75% chance of winning. - 40% of total pods. / participants.
+- 3% chance of winning SSR - 30% of total pods
+- 7% chance of winning SR - 20% of total pods
+- 15% chance of winning R - 10% of total pods
+- 75% chance of winning N - 40% of total pods/participants.

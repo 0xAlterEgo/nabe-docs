@@ -11,8 +11,8 @@ slug: /nabe-tokenomics
 - **Ticker Symbol**: NABE
 - **Chain**: Binance Smart Chain
 - **Max Supply**: Infinite
-- **Start of Supply**: from 3 000 NABE tokens (allocated for the initial Airdrop pool)
-- **Contract Address**: [0x4A3c6D19Eef41c069548DC52592A8e1E36D3e16B](https://bscscan.com/token/0x4A3c6D19Eef41c069548DC52592A8e1E36D3e16B)
+- **Start of Supply**: from 3,000 NABE tokens (allocated for the initial Airdrop pool)
+- **Contract Address**:
 
 ### NABE Token Emission
 
@@ -29,4 +29,4 @@ slug: /nabe-tokenomics
 
 ### The Deflationary Mechanism
 
-- 10% of the deposits are used for token incineration as admission fees for all pods.
+- 10% of the deposits are used for token burn as an entry fee and deflator mechanism only on NABE pot

@@ -19,8 +19,9 @@ const FeatureList = [
     image: require("../../static/img/pancake.png").default,
     description: (
       <Translate description="feature farms description">
-        The dessert course is pancakes. To serve more delicious pancakes, we
-        sprinkle sweet syrup and serve more delicious and delicious cakes.
+        Sweet CAKE never goes wrong! But, if you just put your cake into the
+        NABE pot, you can enjoy the main dish, NABE, and the sweet dessert!
+        Don't forget, patient investors will get the extra CAKE as an interest!
       </Translate>
     ),
   },
@@ -28,11 +29,12 @@ const FeatureList = [
     title: (
       <Translate description="feature liquidity pool title">Lottery</Translate>
     ),
-    image: require("../../static/img/gachagacha.png").default,
+    image: require("../../static/img/fukubiki.png").default,
     description: (
       <Translate description="feature liquidity pool description">
-        We are holding events such as a meal ticket lottery to make it fun in
-        addition to delicious dishes.
+        Click-click! You just draw a 3% possibility of SSR! You will get an
+        entry ticket by crypto asset deposit. Just put the entry ticket and get
+        the chance for the higher rewards! You can be the winner of the Gacha
       </Translate>
     ),
   },
